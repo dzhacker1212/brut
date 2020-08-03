@@ -1,2 +1,2 @@
-# brut
+# brut.py
 This Is My Brut Tool
